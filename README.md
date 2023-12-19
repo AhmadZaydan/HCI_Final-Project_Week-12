@@ -1,7 +1,9 @@
 HCI_Final-Project_Week-12
 
 Project name: Homepaw
+
 Group name: Code Cuts
+
 Group member: 
   1. Ahmad Zaydan
   2. Haniif Satria Wardana
