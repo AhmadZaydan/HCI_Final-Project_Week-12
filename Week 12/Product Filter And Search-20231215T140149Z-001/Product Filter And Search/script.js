@@ -154,16 +154,6 @@ let pets = {
       age: "9.5 Mothns",
       gender: "Male",
     },
-    {
-      petName: "",
-      category: "others",
-      breed: "",
-      image: "",
-      description: "",
-      weight: "",
-      age: "",
-      gender: "",
-    },
   ],
 };
 
